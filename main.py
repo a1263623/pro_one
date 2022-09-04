@@ -1,5 +1,5 @@
 import requests
-import sleep
+import time
 
 url = "http://www.google.com.tw"
 
